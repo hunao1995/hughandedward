@@ -7,10 +7,10 @@ const CONFIG = {
 
   MAGZINE_HOME_HIDDEN_CATEGORY: '分享杂文', //不希望在首页展示的文章分类，用英文逗号隔开
 
-  MAGZINE_HOME_TITLE: '立即开创您的在线业务。完全免费。',
+  MAGZINE_HOME_TITLE: 'Hugh和Edward的学习生活分享',
   MAGZINE_HOME_DESCRIPTION:
-    '借助NotionNext，获得助您开创、经营和扩展业务所需的全部工具和帮助。',
-  MAGZINE_HOME_TIPS: 'AI时代来临，这是属于超级个体的狂欢盛宴！',
+    '我们是一对30多岁的学生情侣，在这里分享我们的学习心得与生活点滴。',
+  MAGZINE_HOME_TIPS: '用知识与爱情谱写我们的人生篇章！',
 
   // 首页底部推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   MAGZINE_RECOMMEND_POST_TAG: '推荐',
@@ -31,10 +31,10 @@ const CONFIG = {
 
   // 文章页面联系卡
   MAGZINE_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  MAGZINE_SOCIAL_CARD_TITLE_1: '交流频道',
-  MAGZINE_SOCIAL_CARD_TITLE_2: '加入社群讨论分享',
-  MAGZINE_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  MAGZINE_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/chat-community',
+  MAGZINE_SOCIAL_CARD_TITLE_1: '与我们交流',
+  MAGZINE_SOCIAL_CARD_TITLE_2: '欢迎来到Hugh和Edward的世界',
+  MAGZINE_SOCIAL_CARD_TITLE_3: '点击关注我们',
+  MAGZINE_SOCIAL_CARD_URL: 'https://github.com/hughandedward',
 
   // 页脚菜单
   MAGZINE_FOOTER_LINKS: [
