@@ -19,7 +19,7 @@ const CONFIG = {
   MAGZINE_RECOMMEND_POST_SORT_BY_UPDATE_TIME: true, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
 
   // Style
-  MAGZINE_RIGHT_PANEL_DARK: process.env.NEXT_PUBLIC_MAGZINE_RIGHT_DARK || false, // 右侧面板深色模式
+  MAGZINE_RIGHT_PANEL_DARK: process.env.NEXT_PUBLIC_MAGZINE_RIGHT_DARK || true, // 右侧面板深色模式
 
   MAGZINE_POST_LIST_COVER: true, // 文章列表显示图片封面
   MAGZINE_POST_LIST_PREVIEW: true, // 列表显示文章预览
@@ -34,7 +34,7 @@ const CONFIG = {
   MAGZINE_SOCIAL_CARD_TITLE_1: '与我们交流',
   MAGZINE_SOCIAL_CARD_TITLE_2: '欢迎来到Hugh和Edward的世界',
   MAGZINE_SOCIAL_CARD_TITLE_3: '点击关注我们',
-  MAGZINE_SOCIAL_CARD_URL: 'https://github.com/hughandedward',
+  MAGZINE_SOCIAL_CARD_URL: 'https://t.me/+kZJwAzpBcMljMzVh',
 
   // 页脚菜单
   MAGZINE_FOOTER_LINKS: [
